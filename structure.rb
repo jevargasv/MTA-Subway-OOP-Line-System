@@ -1,3 +1,4 @@
+# Line Structure
 class MTA
     def initialize ()
         @lines = {}
