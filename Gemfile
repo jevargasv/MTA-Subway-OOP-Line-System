@@ -9,3 +9,5 @@ gem 'rainbow', '~> 3.0'
 gem 'rest-client'
 gem 'pry'
 gem 'chuck_norris'
+
+end
