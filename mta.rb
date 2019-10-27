@@ -1,3 +1,4 @@
+# Line System
 require_relative './structure.rb'
 
 line_N = Line.new("N") = ["times_square", "34th", "28th", "23rd", "union_square", "8th"]
